@@ -9,14 +9,23 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=piyushmani&style=flat-square&color=blue" alt=""/>
 </div>
-Welcome to my GitHub profile! I'm a passionate mobile engineer with expertise in Flutter. I love creating beautiful and performant mobile applications that provide seamless user experiences.
+👋 Hello! I'm Shatha, an experienced mobile engineer with a strong focus on Flutter development. I have a passion for creating elegant and high-performing mobile applications that deliver exceptional user experiences.
 
 ## About Me
 
-- 🌟 Experienced mobile engineer with a focus on Flutter development
-- 💡 Constantly exploring new technologies and trends in the mobile app development industry
-- 🎓 Bachelor's degree in Software Engineering.
-- 🌍 Based in Remotely.
+🌟 With several years of hands-on experience, I have honed my skills in Flutter to build robust and visually stunning cross-platform apps for Android and iOS. I stay up to date with the latest technologies and industry trends, always striving to enhance my knowledge and incorporate best practices into my work.
+
+🔬 Additionally, I have a keen interest in data analysis and science. I have gained practical experience in analyzing and interpreting data, leveraging tools such as Python, Pandas, and SQL. I am continuously expanding my skills in data science, exploring machine learning algorithms, and honing my data visualization abilities.
+
+🎓 I hold a Bachelor's degree in Software Engineering, providing me with a solid foundation in software development principles and problem-solving techniques. This academic background, combined with my practical experience, enables me to approach projects with a holistic perspective and deliver top-notch results.
+
+💡 I am passionate about continuous learning and regularly explore emerging technologies and frameworks within the mobile app development and data science domains. This allows me to stay ahead of the curve and leverage cutting-edge tools and techniques to create innovative solutions.
+
+🌍 While I am currently based remotely, I am adept at collaborating effectively with cross-functional teams in various time zones. I thrive in remote work environments, leveraging communication tools and agile methodologies to ensure seamless coordination and successful project outcomes.
+
+I'm excited to bring my expertise in Flutter development and data analysis to your projects. Let's work together to turn ideas into reality!
+
+
 
 ## Skills
 
