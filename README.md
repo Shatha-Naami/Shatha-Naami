@@ -93,6 +93,6 @@ I also have some experience in data analysis and am currently expanding my skill
 
 - 📧 Email: devshatha99@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/shatha-naami-4a633a174/
-- 🐦 Twitter: [https://twitter.com/shathanaami?s=21]
+- 🐦 Twitter: https://twitter.com/shathanaami?s=21
 
 Let's connect and collaborate on exciting mobile app development and data analysis projects!
