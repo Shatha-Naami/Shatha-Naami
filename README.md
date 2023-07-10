@@ -9,22 +9,23 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=piyushmani&style=flat-square&color=blue" alt=""/>
 </div>
-👋 Hello! I'm Shatha, an experienced mobile engineer with a strong focus on Flutter development. I have a passion for creating elegant and high-performing mobile applications that deliver exceptional user experiences.
+<br>
+
+👋 Welcome to my GitHub profile! I'm Shatha, an experienced mobile engineer with a strong focus on Flutter development. I'm dedicated to creating elegant and high-performing mobile applications that provide exceptional user experiences. Feel free to explore my projects and repositories to see my work in action. Let's collaborate and bring innovative ideas to life!
 
 ## About Me
 
-🌟 With several years of hands-on experience, I have honed my skills in Flutter to build robust and visually stunning cross-platform apps for Android and iOS. I stay up to date with the latest technologies and industry trends, always striving to enhance my knowledge and incorporate best practices into my work.
+🌟 Experienced Flutter developer with a focus on building robust cross-platform apps for Android and iOS.
 
-🔬 Additionally, I have a keen interest in data analysis and science. I have gained practical experience in analyzing and interpreting data, leveraging tools such as Python, Pandas, and SQL. I am continuously expanding my skills in data science, exploring machine learning algorithms, and honing my data visualization abilities.
+🔬 Passionate about data analysis and science, leveraging Python, Pandas, and SQL for practical experience in analyzing and interpreting data.
 
-🎓 I hold a Bachelor's degree in Software Engineering, providing me with a solid foundation in software development principles and problem-solving techniques. This academic background, combined with my practical experience, enables me to approach projects with a holistic perspective and deliver top-notch results.
+🎓 Holds a Bachelor's degree in Software Engineering, combining academic knowledge with hands-on expertise to deliver top-notch results.
 
-💡 I am passionate about continuous learning and regularly explore emerging technologies and frameworks within the mobile app development and data science domains. This allows me to stay ahead of the curve and leverage cutting-edge tools and techniques to create innovative solutions.
+💡 Dedicated to continuous learning, staying updated with emerging technologies in mobile app development and data science.
 
-🌍 While I am currently based remotely, I am adept at collaborating effectively with cross-functional teams in various time zones. I thrive in remote work environments, leveraging communication tools and agile methodologies to ensure seamless coordination and successful project outcomes.
+🌍 Remote work adept, skilled in effective collaboration with cross-functional teams across time zones.
 
-I'm excited to bring my expertise in Flutter development and data analysis to your projects. Let's work together to turn ideas into reality!
-
+Let's turn ideas into reality with my expertise in Flutter development and data analysis!
 
 
 ## Skills
